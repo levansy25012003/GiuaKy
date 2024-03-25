@@ -1,0 +1,7 @@
+D:\ThayHuy\GiuaKy\GiuaKy\bin\Debug\GiuaKy.exe.config
+D:\ThayHuy\GiuaKy\GiuaKy\bin\Debug\GiuaKy.exe
+D:\ThayHuy\GiuaKy\GiuaKy\bin\Debug\GiuaKy.pdb
+D:\ThayHuy\GiuaKy\GiuaKy\obj\Debug\GiuaKy.csproj.AssemblyReference.cache
+D:\ThayHuy\GiuaKy\GiuaKy\obj\Debug\GiuaKy.csproj.CoreCompileInputs.cache
+D:\ThayHuy\GiuaKy\GiuaKy\obj\Debug\GiuaKy.exe
+D:\ThayHuy\GiuaKy\GiuaKy\obj\Debug\GiuaKy.pdb
